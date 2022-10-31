@@ -1,0 +1,41 @@
+{
+  "id": "34fa03aa-b1a9-437f-87b4-7df1c730d5cf",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hi, welcome to Oxcycle! Please input an object you want to recycle!",
+            "Hello, this is Oxcycle, your personal recycling assistant! Please let me know what object you want to recycle!",
+            "Hi! Welcome to Oxcycle! Please specify what object you want to recycle!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

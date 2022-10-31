@@ -1,0 +1,83 @@
+{
+  "id": "9936597a-4710-4143-a660-c8e4747aba2c",
+  "name": "recycleIntent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": true,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "recycleIntent-followup",
+          "lifespan": 2
+        },
+        {
+          "name": "how",
+          "lifespan": 5
+        },
+        {
+          "name": "to",
+          "lifespan": 5
+        },
+        {
+          "name": "a",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "43a83df9-c943-4b82-a99e-d3780ffc82f5",
+          "name": "material",
+          "required": false,
+          "dataType": "@material",
+          "value": "$material",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Sorry, what\u0027s it made of?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "6ec92317-d362-42fa-9b11-d6af1eebaaba",
+          "name": "object",
+          "required": false,
+          "dataType": "@object",
+          "value": "$object",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

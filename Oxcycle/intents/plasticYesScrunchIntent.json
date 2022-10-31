@@ -1,0 +1,41 @@
+{
+  "id": "a18e28df-52c1-4e32-8306-76fe31496061",
+  "parentId": "affe3464-95bb-43f6-b575-a6c6a4935cad",
+  "rootParentId": "9936597a-4710-4143-a660-c8e4747aba2c",
+  "name": "plasticYesScrunchIntent",
+  "auto": true,
+  "contexts": [
+    "plasticNoStretchIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "recycleIntent.recycleIntent-no.plasticNoStretchIntent-yes",
+      "affectedContexts": [
+        {
+          "name": "plasticYesScrunchIntent-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

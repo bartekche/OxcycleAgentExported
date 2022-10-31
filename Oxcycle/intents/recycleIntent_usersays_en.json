@@ -1,0 +1,732 @@
+[
+  {
+    "id": "882ee012-3392-4154-a2ac-afa7ae3317c2",
+    "data": [
+      {
+        "text": "do i recycle a ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza box",
+        "meta": "@object",
+        "alias": "object",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "703144ab-c20b-4b8d-9c3b-3aea5226233e",
+    "data": [
+      {
+        "text": "can i recycle a juice ",
+        "userDefined": false
+      },
+      {
+        "text": "carton",
+        "meta": "@object",
+        "alias": "object",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f604b278-9a59-4b6a-8e13-45389fcb8739",
+    "data": [
+      {
+        "text": "a ",
+        "userDefined": false
+      },
+      {
+        "text": "carton",
+        "meta": "@object",
+        "alias": "object",
+        "userDefined": false
+      },
+      {
+        "text": " of juice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da83b819-fdd8-4e95-aa1d-a7012f6833fc",
+    "data": [
+      {
+        "text": "hi, is a ",
+        "userDefined": false
+      },
+      {
+        "text": "plastic",
+        "meta": "@material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " bottle ",
+        "userDefined": false
+      },
+      {
+        "text": "recyclable",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dd06979f-8091-4102-a657-fe622493f574",
+    "data": [
+      {
+        "text": "hi, is ",
+        "userDefined": false
+      },
+      {
+        "text": "wood",
+        "meta": "@material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "recyclable",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "111f0f36-b675-4b78-aa5c-9d94fb3fb0e2",
+    "data": [
+      {
+        "text": "hi, is ",
+        "userDefined": false
+      },
+      {
+        "text": "plastic",
+        "meta": "@material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "recyclable",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c532f0a7-7c70-4153-afa9-ed77f0c91229",
+    "data": [
+      {
+        "text": "can i recycle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3bb98f76-9ce7-491e-b20e-37ea9b637433",
+    "data": [
+      {
+        "text": "can i recycle an ",
+        "userDefined": false
+      },
+      {
+        "text": "aluminium",
+        "meta": "@material",
+        "alias": "material",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "can",
+        "meta": "@object",
+        "alias": "object",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e3fd477e-6fa5-44e2-a2ea-e8095743b656",
+    "data": [
+      {
+        "text": "can",
+        "userDefined": false
+      },
+      {
+        "text": " you recycle a ",
+        "userDefined": false
+      },
+      {
+        "text": "can",
+        "meta": "@object",
+        "alias": "object",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "78b507df-895c-4f11-a48a-8c017640d7c2",
+    "data": [
+      {
+        "text": "what do i do",
+        "userDefined": true
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "spoon",
+        "meta": "@object",
+        "alias": "object",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a358c80-0fdc-4d2b-86db-2cd5697e251e",
+    "data": [
+      {
+        "text": "can i",
+        "userDefined": true
+      },
+      {
+        "text": " recycle ",
+        "userDefined": false
+      },
+      {
+        "text": "spoon",
+        "meta": "@object",
+        "alias": "object",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c42d1e6-b157-452a-837f-d14bbb7c6efa",
+    "data": [
+      {
+        "text": "how to recycle ",
+        "userDefined": false
+      },
+      {
+        "text": "wooden",
+        "meta": "@material",
+        "alias": "material",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "spoon",
+        "meta": "@object",
+        "alias": "object",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e66f6098-10e3-413b-9654-73e5f6b708f9",
+    "data": [
+      {
+        "text": "Paper",
+        "meta": "@material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "the",
+        "userDefined": false
+      },
+      {
+        "text": " material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "667f9452-4197-42ba-9f0e-9a4a2de66cdb",
+    "data": [
+      {
+        "text": "I\u0027m fine! I would like to know if a ",
+        "userDefined": false
+      },
+      {
+        "text": "paper",
+        "meta": "@material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tray",
+        "meta": "@object",
+        "alias": "object",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "should",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "be",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "recycled",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2d7a40b-b0b8-4373-bb1d-1005b777a7e9",
+    "data": [
+      {
+        "text": "Is ",
+        "userDefined": false
+      },
+      {
+        "text": "can",
+        "meta": "@object",
+        "alias": "object",
+        "userDefined": false
+      },
+      {
+        "text": " recyclable?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0f1e178-2907-478b-ab84-170fc7a268b7",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "can",
+        "userDefined": false
+      },
+      {
+        "text": " I recycle a ",
+        "userDefined": false
+      },
+      {
+        "text": "bottle",
+        "meta": "@object",
+        "alias": "object",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2366e361-e3f1-4371-9751-e1e7eafccad7",
+    "data": [
+      {
+        "text": "it\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "s",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "made",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "paper",
+        "meta": "@material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a269e511-ecbe-411a-abf7-463abf71096d",
+    "data": [
+      {
+        "text": "i want to recycle ",
+        "userDefined": false
+      },
+      {
+        "text": "an object",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5412dfa5-b294-4dd6-bfec-6c680567582a",
+    "data": [
+      {
+        "text": "i want to recycle a ",
+        "userDefined": false
+      },
+      {
+        "text": "plastic",
+        "meta": "@material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bottle",
+        "meta": "@object",
+        "alias": "object",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f7790154-b111-4700-9a1d-0f314883bde4",
+    "data": [
+      {
+        "text": "a ",
+        "userDefined": false
+      },
+      {
+        "text": "bottle",
+        "meta": "@object",
+        "alias": "object",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "made of",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "plastic",
+        "meta": "@material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "449dda51-3099-4451-a983-aab3c2542145",
+    "data": [
+      {
+        "text": "what do i do with a ",
+        "userDefined": false
+      },
+      {
+        "text": "bottle",
+        "meta": "@object",
+        "alias": "object",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "59c8882f-2e76-4c97-b278-ba73c9dfabf0",
+    "data": [
+      {
+        "text": "carton",
+        "meta": "@object",
+        "alias": "object",
+        "userDefined": true
+      },
+      {
+        "text": " of juice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2631520b-62d6-49c0-83eb-dac0287007c9",
+    "data": [
+      {
+        "text": "a ",
+        "userDefined": false
+      },
+      {
+        "text": "plastic",
+        "meta": "@material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bottle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "264cc6d9-9c89-4163-8648-910c1acc4560",
+    "data": [
+      {
+        "text": "how to recycle a ",
+        "userDefined": false
+      },
+      {
+        "text": "can",
+        "meta": "@object",
+        "alias": "object",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c40f3b36-7686-4b74-9596-ad16edd7e71c",
+    "data": [
+      {
+        "text": "What to do with",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cans",
+        "meta": "@object",
+        "alias": "object",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a2db3246-5f79-4a92-b84d-37b65aab6654",
+    "data": [
+      {
+        "text": "Tell me where does",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "metal",
+        "meta": "@material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " go?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "70ac6637-6418-477d-84c3-e9fc9bf9ed19",
+    "data": [
+      {
+        "text": "How to recycle ",
+        "userDefined": false
+      },
+      {
+        "text": "plastic",
+        "meta": "@material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bottles",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b7fc7882-3f55-4d1b-abc8-cba486708870",
+    "data": [
+      {
+        "text": "Where should I put ",
+        "userDefined": false
+      },
+      {
+        "text": "glass",
+        "meta": "@material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

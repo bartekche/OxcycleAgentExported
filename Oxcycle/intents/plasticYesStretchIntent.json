@@ -1,0 +1,37 @@
+{
+  "id": "5a49555e-0159-4c24-ab74-70d3b460baa3",
+  "parentId": "9936597a-4710-4143-a660-c8e4747aba2c",
+  "rootParentId": "9936597a-4710-4143-a660-c8e4747aba2c",
+  "name": "plasticYesStretchIntent",
+  "auto": true,
+  "contexts": [
+    "recycleIntent-followup",
+    "plasticContext"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "recycleIntent.recycleIntent-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

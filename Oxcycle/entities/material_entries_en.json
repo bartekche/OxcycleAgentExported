@@ -1,0 +1,49 @@
+[
+  {
+    "value": "glass",
+    "synonyms": [
+      "glass",
+      "glassy"
+    ]
+  },
+  {
+    "value": "plastic",
+    "synonyms": [
+      "plastic",
+      "PVC"
+    ]
+  },
+  {
+    "value": "metal",
+    "synonyms": [
+      "metal",
+      "metallic",
+      "metally",
+      "Aluminum",
+      "Magnesium",
+      "aluminium"
+    ]
+  },
+  {
+    "value": "paper",
+    "synonyms": [
+      "paper",
+      "cardboard"
+    ]
+  },
+  {
+    "value": "food",
+    "synonyms": [
+      "food"
+    ]
+  },
+  {
+    "value": "wood",
+    "synonyms": [
+      "wood",
+      "wooden",
+      "woody",
+      "branches"
+    ]
+  }
+]
